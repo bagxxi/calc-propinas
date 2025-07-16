@@ -46,7 +46,7 @@ Clona o descarga el repositorio
 bash
 Copiar
 Editar
-git clone https://github.com/tu-usuario/calculadora-propinas.git
+git clone https://github.com/Sakhura/CalculadoraPropinas2
 Ábrelo en Android Studio
 
 Selecciona Open > build.gradle (nivel del proyecto)
