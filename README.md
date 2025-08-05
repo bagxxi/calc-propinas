@@ -37,7 +37,7 @@ _Próximamente_
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/bagxxi/calc-propinas.git
-   cd CalculadoraPropinas2
+   cd calc-propinas
    ```
 
 2. **Abrir en Android Studio:**
