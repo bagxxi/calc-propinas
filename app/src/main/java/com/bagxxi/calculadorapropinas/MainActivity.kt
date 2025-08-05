@@ -1,9 +1,9 @@
-package com.sakhura.calculadorapropinas
+package com.bagxxi.calculadorapropinas
 
 import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.sakhura.calculadorapropinas.utils.CalculadoraUtils
+import com.bagxxi.calculadorapropinas.utils.CalculadoraUtils
 
 class MainActivity : AppCompatActivity() {
 
@@ -79,12 +79,12 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "Ingresa un porcentaje personalizado válido", Toast.LENGTH_SHORT).show()
                 return
             }
-            personalizado / 100
+            personalizado
         } else {
             when (rgPorcentaje.checkedRadioButtonId) {
-                R.id.rb10 -> 0.10
-                R.id.rb15 -> 0.15
-                R.id.rb20 -> 0.20
+                R.id.rb10 -> 10.0
+                R.id.rb15 -> 15.0
+                R.id.rb20 -> 20.0
                 else -> {
                     Toast.makeText(this, "Selecciona un porcentaje o ingresa uno personalizado", Toast.LENGTH_SHORT).show()
                     return
