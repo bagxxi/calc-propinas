@@ -1,4 +1,4 @@
-package com.sakhura.calculadorapropinas
+package com.bagxxi.calculadorapropinas
 
 import org.junit.Test
 

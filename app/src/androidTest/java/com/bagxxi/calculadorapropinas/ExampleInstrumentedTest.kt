@@ -1,4 +1,4 @@
-package com.sakhura.calculadorapropinas
+package com.bagxxi.calculadorapropinas
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.sakhura.calculadorapropinas", appContext.packageName)
+        assertEquals("com.bagxxi.calculadorapropinas", appContext.packageName)
     }
 }

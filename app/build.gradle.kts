@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.sakhura.calculadorapropinas"
+    namespace = "com.bagxxi.calculadorapropinas"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.sakhura.calculadorapropinas"
+        applicationId = "com.bagxxi.calculadorapropinas"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

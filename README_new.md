@@ -71,7 +71,7 @@ _Próximamente_
 ```
 app/
 ├── src/main/
-│   ├── java/com/sakhura/calculadorapropinas/
+│   ├── java/com/bagxxi/calculadorapropinas/
 │   │   ├── MainActivity.kt          # Actividad principal
 │   │   └── utils/
 │   │       └── CalculadoraUtils.kt  # Utilidades de cálculo
