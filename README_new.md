@@ -36,7 +36,7 @@ _Próximamente_
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/bagxxi/CalculadoraPropinas2.git
+   git clone https://github.com/bagxxi/calc-propinas.git
    cd CalculadoraPropinas2
    ```
 
